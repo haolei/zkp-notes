@@ -69,8 +69,8 @@ In conclusion, the **domain parameters **for our algorithms are the **sextuple**
 以上domain完整定**一个有限域椭圆曲线的循环子群**
 
 $$\begin{array}{rcl}
-  \left\{(x, y) \in (\mathbb{F}_p)^2 \right. & \left. | \right. & \left. y^2 \equiv x^3 + ax + b \pmod{p}, \right. \\
-  & & \left. 4a^3 + 27b^2 \not\equiv 0 \pmod{p}\right\}\ \cup\ \left\{0\right\}
+  \{(x, y) \in (\mathbb{F}_p)^2 & | & y^2 \equiv x^3 + ax + b \pmod{p}, \\
+  & & 4a^3 + 27b^2 \not\equiv 0 \pmod{p}\}\ \cup\ \{0\}
 \end{array}$$
 
 ## Elliptic Curve Cryptography

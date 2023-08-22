@@ -4,7 +4,7 @@ attachment [pdf](pdf/elliptic-curve-cryptography-a-gentle-introduction.pdf)
 
 
 **椭圆曲线定义**
-$$\left\{ (x, y) \in \mathbb{R}^2\ |\ y^2 = x^3 + ax + b,\ 4 a^3 + 27 b^2 \ne 0 \right\}\ \cup\ \left\{ 0 \right\}$$
+$$\{ (x, y) \in \mathbb{R}^2\ |\ y^2 = x^3 + ax + b,\ 4 a^3 + 27 b^2 \ne 0 \}\ \cup\ \{ 0 \}$$
 
 *椭圆曲线群性质*
 * the elements of the group are the points of an elliptic curve;
